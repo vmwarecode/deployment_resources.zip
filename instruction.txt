@@ -1,0 +1,8 @@
+1) download file
+2) unzip it
+3) import zip file as abx
+4) run abx
+5) grab output json
+6) use https://konklone.io/json/ to convert json to a csv formatted file
+
+note: this abx action presents virtual machine resources of first 2000 deployments of a project 
